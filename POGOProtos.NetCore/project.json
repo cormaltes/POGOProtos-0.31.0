@@ -1,0 +1,15 @@
+﻿{
+  "title": "POGOProtos.NetCore",
+  "version": "1.0.1-*",
+
+  "dependencies": {
+    "Google.Protobuf": "3.0.0",
+    "NETStandard.Library": "1.6.0"
+  },
+
+  "frameworks": {
+    "netstandard1.5": {
+      "imports": "dnxcore50"
+    }
+  }
+}

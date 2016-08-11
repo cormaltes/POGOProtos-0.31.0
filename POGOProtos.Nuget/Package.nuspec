@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>POGOProtos.NetCore</id>
+    <version>1.0.1</version>
+    <title>POGOProtos.NetCore</title>
+    <authors>cormaltes</authors>
+    <description>
+      POGOProtos.NetCore
+    </description>
+    <dependencies>
+      <dependency id="Google.Protobuf" version="3.0.0" />
+      <dependency id="NETStandard.Library" version="1.6.0"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+  </files>
+</package>
