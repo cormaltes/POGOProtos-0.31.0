@@ -6,7 +6,7 @@
     <title>POGOProtos.NetCore</title>
     <authors>cormaltes</authors>
     <description>
-      POGOProtos.NetCore
+      API NetCore : proto files of PokémonGO
     </description>
     <dependencies>
       <dependency id="Google.Protobuf" version="3.0.0" />
