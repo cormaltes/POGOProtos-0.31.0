@@ -2,11 +2,11 @@
 <package >
   <metadata>
     <id>POGOProtos.NetCore</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <title>POGOProtos.NetCore</title>
     <authors>cormaltes</authors>
     <description>
-      API NetCore : proto files of PokémonGO
+       NetCore : proto files of PokémonGO
     </description>
     <dependencies>
       <dependency id="Google.Protobuf" version="3.0.0" />
